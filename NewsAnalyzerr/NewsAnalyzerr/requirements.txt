@@ -1,0 +1,15 @@
+beautifulsoup4==4.14.3
+jaraco.collections==5.1.0
+pandas==2.3.3
+pip-chill==1.0.3
+platformdirs==4.2.2
+pytest==8.4.2
+requests==2.32.5
+textblob==0.19.0
+
+streamlit
+plotly
+.\.venv\Scripts\Activate.ps1
+..\.venv\Scripts\python.exe -m streamlit run MainPage.py
+.\.venv\Scripts\Activate.ps1
+python -m streamlit run NewsAnalyzerr/MainPage.py
