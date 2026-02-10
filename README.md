@@ -1,1 +1,1 @@
-Uni project made as a group
+University project collab. Make sure the libraries are installed.
